@@ -1,2 +1,2 @@
-# testGC-olamundo
+# Testando Olá, mundo!
 Primeiro repositorio versionado
